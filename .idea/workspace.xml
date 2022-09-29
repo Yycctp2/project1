@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bbe5611-94bf-4664-b360-f24e939e2003" name="Changes" comment="ADD : Method_addSubjectScore">
+      <change afterPath="$PROJECT_DIR$/src/school/Subject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/school/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/Student.java" afterDir="false" />
     </list>
@@ -65,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664433654811</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ADD : Method_addSubjectScore">
+      <created>1664433929064</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664433929064</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
