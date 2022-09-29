@@ -9,6 +9,10 @@ public class Student {
 
     private ArrayList<Score> scoreList = new ArrayList<Score>();
 
+    public void addSubjectScore(Score score) {
+        scoreList.add(score);
+    }
+
     public Student(int studentId, String studentName, Subject majorSubject){
         this.studentId = studentId;
         this.studentName = studentName;
