@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bbe5611-94bf-4664-b360-f24e939e2003" name="Changes" comment="ADD : Method_addSubjectScore">
-      <change afterPath="$PROJECT_DIR$/src/school/Subject.java" afterDir="false" />
+    <list default="true" id="1bbe5611-94bf-4664-b360-f24e939e2003" name="Changes" comment="ADD : Class - Subject">
+      <change afterPath="$PROJECT_DIR$/src/school/Score.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/school/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664433929064</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ADD : Class - Subject">
+      <created>1664435689337</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664435689337</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +97,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="ADD : Student.java" />
     <MESSAGE value="ADD : Method_addSubjectScore" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD : Method_addSubjectScore" />
+    <MESSAGE value="ADD : Class - Subject" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD : Class - Subject" />
   </component>
 </project>
