@@ -8,7 +8,6 @@ public class Score {
     public void setStudentId(int studentId) {
         this.studentId = studentId;
     }
-
     public void setPoint(int point) {
         this.point = point;
     }
@@ -29,7 +28,11 @@ public class Score {
         return subject;
     }
 
-    public Score(int studentId, Subject subject, int point){
+    public String toString() {
+        return "학번:" + studentId + "," + subject.getSubjectName() +"," + point;
+    }
+
+    public Score(int studentId, Subject subject, int point) {
         this.studentId = studentId;
         this.point = point;
         this.subject = subject;
