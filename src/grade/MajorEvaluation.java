@@ -10,7 +10,7 @@ public class MajorEvaluation implements GradeEvaluation {
         if(point >=95 && point <=100)
             grade = "S";
         else if(point >=90 && point <=94)
-            grade = new String("A");
+            grade = "A";
         else if(point >=80 && point <=89)
             grade = "B";
         else if(point >=70 && point <=79)
