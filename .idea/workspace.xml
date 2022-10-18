@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bbe5611-94bf-4664-b360-f24e939e2003" name="Changes" comment="ADD : grlloasd">
+      <change afterPath="$PROJECT_DIR$/src/school/School.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grade/MajorEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grade/MajorEvaluation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/school/utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utills/utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

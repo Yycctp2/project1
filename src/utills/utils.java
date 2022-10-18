@@ -1,4 +1,4 @@
-package school;
+package utills;
 
 public class utils {
     public static final int KOREAN = 1001;
