@@ -1,10 +1,21 @@
-package grade;
+package school.report;
+
+import grade.BasicEvaluation;
+import grade.GradeEvaluation;
+import grade.MajorEvaluation;
+import school.School;
+import school.Score;
+import school.Student;
+import school.Subject;
+import utills.Define;
+
+import java.util.ArrayList;
 
 public class GenerateGradeReport {
 
     School school = School.getInstance();
     public static final String TITLE = " 수강생 학점 \t\t\n";
-    public static final String HEADER = " 이름  |  학번  |중점과목| 점수   \n";
+    public static final String HEADER = " 이름 \t|\t학번\t|\t중점과목\t|\t점수\n";
     public static final String LINE = "-------------------------------------\n";
     private StringBuffer buffer = new StringBuffer();
 
@@ -65,6 +76,7 @@ public class GenerateGradeReport {
                 buffer.append(":");
                 buffer.append(grade);
                 buffer.append(" | ");
+
             }
         }
     }

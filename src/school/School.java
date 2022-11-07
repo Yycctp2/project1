@@ -25,6 +25,10 @@ public class School {
         studentList.add(student);
     }
 
+    public void addSubject(Subject subject) {
+        subjectList.add(subject);
+    }
+
     public ArrayList<Subject> getSubjectList() {
         return subjectList;
     }
